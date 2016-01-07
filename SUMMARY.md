@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* Introduction
 * [some](some.md)
 * [ddd](ddd.md)
 
